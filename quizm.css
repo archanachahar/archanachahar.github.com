@@ -10,6 +10,9 @@ tr{
     
     
 }
+ p{
+        font-family:cursive;
+    }
 a{
     color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
